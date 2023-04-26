@@ -18,6 +18,11 @@ $config = array(
             'eduPersonAffiliation' => array('group2'),
             'email' => 'user2@example.com',
         ),
+        'jordane:jordane' => array(
+            'uid' => array('2'),
+            'eduPersonAffiliation' => array('group2'),
+            'email' => 'yoloooo@yolo.fr',
+        ),
     ),
 
 );
